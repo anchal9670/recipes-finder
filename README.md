@@ -1,15 +1,13 @@
-# recipes_finder
+# Recipes Finder
 
-A new Flutter project.
-
-## Getting Started
+## Features 
+### Show all recipes 
+### detailed view of recipes 
+### show bookmarked recipes
 
 This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [free recipes api ](https://dummyjson.com/recipes)
+- [Download Apk Files ](https://drive.google.com/file/d/1OhJrpF1CZK0hd9vxNiRlhKfm5rXKw5SF/view?usp=sharing)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,

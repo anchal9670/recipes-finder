@@ -1,9 +1,9 @@
 # Recipes Finder
 
-## Features 
-### Show all recipes 
-### detailed view of recipes 
-### show bookmarked recipes
+#### Features 
+- Show all recipes 
+- detailed view of recipes
+- show bookmarked recipes
 
 This project is a starting point for a Flutter application.
 - [free recipes api ](https://dummyjson.com/recipes)
